@@ -1,0 +1,7 @@
+{
+  "name": "delicias-da-ju",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  }
+}
